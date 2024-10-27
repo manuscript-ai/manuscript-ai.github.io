@@ -2,4 +2,5 @@ title: Manuscript API Documentation
 description: >-
   API documentation for Manuscript IDP solutino.
 theme: just-the-docs
+url: https://manuscript-ai.github.io/manuscript-ai
 remote_theme: just-the-docs/just-the-docs
