@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+nav_order: 3
+---
+
 # Privacy policy
 Effective date: 27/10/2024
 
